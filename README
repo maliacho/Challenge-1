@@ -1,4 +1,19 @@
-description
-screenshot of finished project
-technologies used
-link to live deployed version of the application
+# Refactoring Horiseon Web Application
+
+Updated the HTML to contain semantic HTML elements, replacing <div> for <header>. The CSS was updated to reflect these changes as well. 
+Updated the title of the HTML from "website" to "HoriSEOn."
+Added alt descriptions to images for enhanced accessiblity.
+
+## Screenshot of Finished Project
+![screenshot 1](screenshot-1.png)
+![screenshot-2](screenshot-2.png)
+![screenshot-3](screenshot-3.png)
+
+### Technologies Used
+
+VS Code to edit HTML, CSS, and README.
+GitHub to store and publish work.
+
+#### Link to Deployed Site
+https://maliacho.github.io/refactor-demo/
+
